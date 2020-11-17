@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+[Visit my website](https://www.gusvalenzuela.com)
+
 - 📫 How to reach me: gusrvalenzuela.com
+- 💬 Ask me about ... ANYTHING!
+- ⚡ Fun fact: I've set foot on the Circuit of the Americas.
 
 <!--
 **gusvalenzuela/gusvalenzuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
