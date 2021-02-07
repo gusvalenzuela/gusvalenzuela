@@ -2,7 +2,7 @@
 
 [Visit my website](https://www.gusvalenzuela.com)
 
-- 📫 How to reach me: gusrvalenzuela.com
+- 📫 How to reach me: gusrvalenzuela@gmail.com
 - 💬 Ask me about ... ANYTHING!
 - ⚡ Fun fact: I've set foot on the Circuit of the Americas.
 
